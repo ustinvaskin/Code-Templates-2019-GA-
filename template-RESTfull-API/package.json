@@ -35,7 +35,7 @@
     "connected-react-router": "^6.5.2",
     "copy-webpack-plugin": "^5.0.4",
     "dotenv-webpack": "^1.7.0",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "file-loader": "^4.2.0",
     "history": "^4.10.1",
     "jsonwebtoken": "^8.5.1",
